@@ -1,5 +1,3 @@
-# Flowchart-KN-14
-Naon we sa jadina lah nya
 graph TD
     A[Mulai] --> B(Inisialisasi Aplikasi: Muat library, atur default waktu & lokasi, siapkan UI);
 
